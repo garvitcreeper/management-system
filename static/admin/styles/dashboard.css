@@ -1,0 +1,31 @@
+.main-sidebar{
+    background-color: #000;
+}
+
+.content-wrapper{
+    background-color: #000;
+}
+
+.content-header h1{
+    color: #fff !important;
+}
+
+.main-footer{
+    background-color: #000;
+    border: 0;
+}
+
+.main-header{
+    background-color: #000;
+    border: 0;
+    color:#fff
+}
+
+.small-box:nth-of-type(1){
+    background-color: #FFC75F;
+}
+
+.dropdown{
+    background-color: #fff;
+    border-radius: 20%;
+}

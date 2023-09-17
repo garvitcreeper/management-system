@@ -1,0 +1,10 @@
+.login-page{
+    background-color: #0C6980;
+}
+
+.login-logo a,
+.register-logo a{
+    color: #EAF2EF;
+    font-weight: bold;
+}
+
